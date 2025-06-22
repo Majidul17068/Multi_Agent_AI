@@ -2,7 +2,7 @@
 
 A sophisticated multi-agent AI system built with CrewAI, featuring specialized agents for content summarization, headline generation, news analysis, translation, and semantic search. This project leverages the power of Groq LLM and provides a user-friendly Streamlit interface.
 
-## 🚀 Features
+##  Features
 
 ### Core Functionalities
 - **Content Summarization**: Generate concise summaries while preserving original meaning
@@ -18,7 +18,7 @@ A sophisticated multi-agent AI system built with CrewAI, featuring specialized a
 - **Cultural Sensitivity**: Context-aware translations and content processing
 - **Modular Architecture**: Extensible agent-based system
 
-## 🏗️ Architecture
+## 🏗Architecture
 
 The project follows a modular, agent-based architecture:
 
@@ -169,11 +169,7 @@ GROQ_API_KEY=your_groq_api_key_here
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+6. 
 ## 🙏 Acknowledgments
 
 - **CrewAI Team**: For the excellent multi-agent framework
@@ -181,12 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **LangChain**: For LLM integration tools
 - **Streamlit**: For the web application framework
 
-## 📞 Support
-
-For support and questions:
-- Create an issue in the GitHub repository
-- Check the documentation in the code comments
-- Review the configuration files for customization options
 
 ## 🔄 Version History
 
